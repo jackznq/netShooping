@@ -17,7 +17,7 @@ public class PasswordEncoder {
 		return EncryptUtils.MD5_HEX(EncryptUtils.MD5_HEX(src) + salt);
 	}
 
-	public static void main(String[] args) {
-		System.out.println(encrypt("admin", "admin"));
-	}
+//	public static void main(String[] args) {
+//		System.out.println(encrypt("admin", "admin"));
+//	}
 }

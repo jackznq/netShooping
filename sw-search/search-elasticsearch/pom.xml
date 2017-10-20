@@ -10,17 +10,13 @@
 	<dependencies>
 
 
-		<!--<dependency>-->
-			<!--<groupId>org.springframework.boot</groupId>-->
-			<!--<artifactId>spring-boot-starter-dubbo</artifactId>-->
-			<!--<version>1.3.6.RELEASE</version>-->
-		<!--</dependency>-->
 		<dependency>
-			<groupId>com.gitee.reger</groupId>
+            <groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-dubbo</artifactId>
-			<version>1.0.3</version>
+            <version>1.5.7.RELEASE</version>
 		</dependency>
-		<dependency>
+
+        <dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-elasticsearch</artifactId>
 		</dependency>

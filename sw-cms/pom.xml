@@ -12,5 +12,7 @@
 		<module>cms-service</module>
 		<module>cms-web</module>
 	</modules>
+    <dependencies>
 
+    </dependencies>
 </project>
