@@ -10,7 +10,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <java7-version>1.7</java7-version>
+        <java7-version>1.8</java7-version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <spring-version>4.2.6.RELEASE</spring-version>
         <inject-version>1</inject-version>
@@ -269,8 +269,8 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.1</version>
                 <configuration>
-                    <source>1.7</source>
-                    <target>1.7</target>
+                    <source>1.8</source>
+                    <target>1.8</target>
                     <encoding>UTF-8</encoding>
                 </configuration>
             </plugin>
